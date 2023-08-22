@@ -43,12 +43,17 @@ src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-th
 
 <a href="https://github.com/thasleem28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasleem28&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thasleem28&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thasleem28&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
