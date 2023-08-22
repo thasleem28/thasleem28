@@ -19,7 +19,8 @@ src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-th
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON
+  ICON ICON ICON ICON ICON ICON ICON ICON
+
 </p>
 
 
