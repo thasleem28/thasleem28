@@ -41,3 +41,8 @@ src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-th
 
 <a href="https://github.com/thasleem28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasleem28&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
