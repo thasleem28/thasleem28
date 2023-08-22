@@ -12,9 +12,11 @@ I am a frontend developer who loves designing.I have been learning to code for 4
 * 🧠  I'm learning React,Bootstrap
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Cinderella...Tell everyone
+  
 
 <a href="https://www.github.com/thasleem28" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-the-badge&color=a855f7&labelColor=1e3a8a" /></a>
+src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+
 
 ### Skills
 
@@ -33,11 +35,20 @@ src="https://img.shields.io/github/followers/thasleem28?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thasleem28"><img src="https://github-readme-stats.vercel.app/api?username=thasleem28&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="thasleem28's GitHub stats" /></a>
+<a href="http://www.github.com/thasleem28"><img src="https://github-readme-stats.vercel.app/api?username=thasleem28&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="thasleem28's GitHub stats" /></a>
 
-<a href="http://www.github.com/thasleem28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thasleem28&stroke=ffffff&background=1e3a8a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/thasleem28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thasleem28&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/thasleem28"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thasleem28&bg_color=1e3a8a&color=ffffff&line=a855f7&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/thasleem28"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thasleem28&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/thasleem28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasleem28&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/thasleem28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasleem28&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+ProfileMe.dev | Create an amazing GitHub profile in minutes
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thasleem28&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
