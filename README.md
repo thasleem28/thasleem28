@@ -7,7 +7,7 @@ Frontend Developer
 I am a frontend developer who loves designing.I have been learning to code for 4 years , after switching careers.I started with html , Now I gradually improving my programming knowledge.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-* 🌍  I'm based in Dubai City
+* 🌍  I'm based in Dubai City 
 * ✉️  You can contact me at [thasleembegam28@gmail.com](mailto:thasleembegam28@gmail.com)
 * 🧠  I'm learning React,Bootstrap
 * 🤝  I'm open to collaborating on Projects
